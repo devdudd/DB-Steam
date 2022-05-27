@@ -1,0 +1,609 @@
+categories,count,average,median
+Single-player,498,71791,71268
+Single-player;Multi-player,145,30845,32299
+"Single-player;Steam Achievements",57,4371,4211
+"Single-player;Steam Cloud",50,9345,8375
+"Single-player;Partial Controller Support",42,8273,9211
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud",42,12123,12801
+"Single-player;Steam Trading Cards",41,9285,9064
+Single-player;Multi-player;Co-op,34,12752,13839
+"Single-player;Steam Achievements;Steam Trading Cards",34,10396,9073
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud",31,6910,9431
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",31,8951,9612
+"Single-player;Steam Achievements;Partial Controller Support",25,6186,6656
+"Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud",23,9801,8595
+"Single-player;Multi-player;Steam Cloud",21,3434,3705
+"Single-player;Multi-player;Steam Trading Cards",19,9029,10231
+"Single-player;Steam Achievements;Full controller support;Steam Cloud",17,5391,5417
+"Single-player;Multi-player;Steam Achievements",16,4463,4914
+"Single-player;Steam Achievements;Partial Controller Support;Steam Cloud;Steam Leaderboards",16,1087,1227
+"Single-player;Full controller support",14,2239,2333
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards",14,5065,4093
+"Single-player;Steam Achievements;Steam Cloud",14,685,682
+"Single-player;Multi-player;Partial Controller Support",12,4501,4251
+"Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support",12,2020,2069
+"Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Steam Leaderboards",11,4748,5998
+"Single-player;Steam Trading Cards;Steam Cloud",10,2648,2607
+"Single-player;Multi-player;Steam Cloud;Includes level editor",10,1839,1839
+"Single-player;Steam Achievements;Full controller support",10,3346,3308
+"Single-player;Multi-player;Steam Achievements;Partial Controller Support",9,2103,2753
+"Single-player;Steam Achievements;Partial Controller Support;Steam Leaderboards",9,3157,2195
+"Single-player;Multi-player;Includes level editor",7,6891,4938
+"Single-player;Steam Achievements;Stats",7,333,391
+"Single-player;Steam Trading Cards;Partial Controller Support",7,1298,1328
+"Single-player;Steam Achievements;Steam Leaderboards",7,802,783
+"Single-player;Shared/Split Screen;Steam Achievements;Partial Controller Support;Steam Cloud;Steam Leaderboards",7,1070,1090
+"Single-player;Steam Achievements;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards",7,168,204
+"Single-player;Multi-player;Co-op;Partial Controller Support",7,2058,2080
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud;Stats;Steam Leaderboards",7,2103,1684
+"Single-player;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",7,1422,1607
+"Single-player;Multi-player;Steam Achievements;Partial Controller Support;Steam Cloud",6,1333,1333
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",6,3521,3206
+"Single-player;Steam Achievements;Steam Cloud;Stats;Steam Leaderboards",6,959,1245
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud;Steam Leaderboards",6,3699,3926
+"Single-player;Steam Achievements;Partial Controller Support;Steam Cloud",6,2651,2952
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Leaderboards",6,780,875
+"Single-player;Steam Achievements;Full controller support;Steam Cloud;Steam Leaderboards",6,561,637
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Leaderboards",6,1176,1303
+"Single-player;Steam Achievements;Steam Cloud;Steam Leaderboards",5,867,973
+"Single-player;Shared/Split Screen;Full controller support",5,4166,5137
+"Single-player;Partial Controller Support;Steam Cloud",5,450,548
+"Single-player;Multi-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",5,2054,2236
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Includes level editor",5,1495,1872
+MMO,5,1769,1442
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Cloud",5,2090,1424
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud",5,15382,18337
+"Single-player;Multi-player;Co-op;Steam Cloud",4,654,797
+"Single-player;Multi-player;Steam Trading Cards;Steam Cloud",4,8097,4216
+"Single-player;Full controller support;Steam Cloud",4,58,94
+"Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Leaderboards",4,1156,1217
+"Single-player;Steam Achievements;Steam Cloud;Stats",4,1,1
+Multi-player,4,56,92
+"Single-player;Multi-player;Steam Achievements;Partial Controller Support;Steam Leaderboards",4,972,1313
+"Single-player;Steam Achievements;Partial Controller Support;Steam Cloud;Stats",4,229,402
+"Single-player;Multi-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Leaderboards",4,193,193
+"Single-player;Full controller support;Steam Trading Cards",4,499,536
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Stats;Steam Leaderboards",4,655,542
+"Single-player;Shared/Split Screen;Steam Achievements;Partial Controller Support;Steam Cloud",4,122,123
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud;Includes level editor",4,3057,2737
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards",4,625,1054
+"Single-player;Full controller support;Steam Trading Cards;Steam Cloud",4,643,703
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",4,1479,1974
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;Steam Cloud;Steam Leaderboards",4,1375,1631
+"Multi-player;Online Multi-Player;Local Multi-Player;Valve Anti-Cheat enabled",3,18147,563
+"Single-player;Multi-player;Valve Anti-Cheat enabled",3,1685,1158
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Trading Cards",3,609,618
+"Single-player;Steam Achievements;Full controller support;Captions available;Steam Cloud",3,1142,1405
+"Single-player;Partial Controller Support;Includes level editor",3,902,1490
+"Single-player;Shared/Split Screen;Steam Achievements;Full controller support;Steam Cloud",3,4506,4094
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;Steam Cloud",3,5171,2228
+"Single-player;Multi-player;Co-op;Steam Achievements",3,720,283
+"Single-player;Multi-player;Steam Achievements;Steam Cloud",3,12,13
+Single-player;Co-op,3,504,504
+"Single-player;Steam Achievements;Full controller support;Steam Leaderboards",3,193,234
+"Single-player;Shared/Split Screen;Partial Controller Support",3,622,836
+"Single-player;Captions available",3,2605,2612
+"Single-player;Multi-player;Steam Achievements;Steam Cloud;Steam Leaderboards",3,67,78
+"Single-player;Multi-player;Steam Achievements;Stats;Steam Leaderboards",3,1895,2955
+"Single-player;Multi-player;Co-op;Steam Trading Cards",3,951,1521
+"Single-player;Multi-player;Steam Achievements;Steam Leaderboards",3,325,363
+"Single-player;Multi-player;Co-op;Captions available;Partial Controller Support;Includes level editor",3,9242,2387
+"Single-player;Multi-player;Steam Achievements;Full controller support;Steam Leaderboards",3,946,765
+"Single-player;Steam Achievements;Partial Controller Support;Stats;Steam Leaderboards",3,879,1671
+"Single-player;Steam Achievements;Stats;Steam Leaderboards",3,113,117
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Includes level editor",3,1269,1258
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Steam Leaderboards",3,277,271
+"Single-player;Multi-player;Co-op;Steam Achievements;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards",3,1103,1103
+"Single-player;Shared/Split Screen",3,432,432
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Captions available",3,624,679
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Leaderboards",3,293,303
+"Single-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",3,882,690
+Multi-player;MMO,3,599,655
+"Single-player;Multi-player;Cross-Platform Multiplayer",3,19,19
+"Single-player;Multi-player;VR Support;Steam Workshop;Partial Controller Support;Includes level editor",3,10775,16019
+"Multi-player;Valve Anti-Cheat enabled",2,289,115
+"Single-player;Commentary available",2,46,29
+"Single-player;Steam Achievements;Captions available;Partial Controller Support;Steam Cloud;Stats;Includes Source SDK;Commentary available",2,635,485
+"Single-player;Captions available;Steam Cloud",2,1563,1964
+"Single-player;Multi-player;Steam Trading Cards;Steam Workshop;Steam Cloud",2,1650,651
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player",2,88,88
+"Single-player;Online Multi-Player;Local Multi-Player;Partial Controller Support;Steam Cloud",2,1381,354
+"Single-player;Multi-player;Co-op;Shared/Split Screen",2,246,470
+"Single-player;Multi-player;Shared/Split Screen;Partial Controller Support",2,209,209
+"Multi-player;MMO;Co-op;Steam Achievements",2,13059,799
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;Stats",2,4427,2919
+"Single-player;Full controller support;Partial Controller Support",2,260,172
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Stats",2,464,494
+"Single-player;Multi-player;Shared/Split Screen",2,3,3
+"Single-player;Multi-player;Co-op;Steam Achievements;Partial Controller Support;Steam Cloud;Steam Leaderboards",2,1933,3185
+"Single-player;Shared/Split Screen;Steam Achievements;Partial Controller Support",2,0,0
+"Single-player;Multi-player;Partial Controller Support;Steam Cloud",2,50,60
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Steam Leaderboards",2,410,416
+"Single-player;Multi-player;Steam Achievements;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards",2,761,892
+"Single-player;Co-op;Steam Achievements;Partial Controller Support",2,198,221
+"Single-player;Co-op;Steam Achievements;Partial Controller Support;Stats;Steam Leaderboards",2,97,97
+"Multi-player;Steam Cloud",2,175,175
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Partial Controller Support;Steam Cloud;Steam Leaderboards",2,207,220
+"Single-player;Co-op;Shared/Split Screen;Steam Achievements;Partial Controller Support;Steam Cloud;Steam Leaderboards",2,105,105
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Leaderboards",2,331,350
+"Single-player;Local Co-op;Shared/Split Screen;Partial Controller Support;Steam Cloud",2,196,294
+"Single-player;Multi-player;Shared/Split Screen;Steam Achievements;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards",2,731,1342
+"Single-player;Steam Achievements;Partial Controller Support;Steam Cloud;Includes level editor",2,82,117
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards",2,316,433
+"Single-player;Multi-player;Steam Trading Cards;Steam Cloud;Includes level editor",2,720,848
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud;Includes level editor",2,2228,3529
+"Single-player;Shared/Split Screen;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Steam Leaderboards",2,600,600
+"Single-player;Multi-player;Co-op;Steam Achievements;Partial Controller Support;Valve Anti-Cheat enabled",2,2672,517
+"Single-player;Multi-player;Co-op;Steam Achievements;Partial Controller Support;Steam Leaderboards",2,312,362
+"Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards",2,533,533
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud",2,1813,2350
+"Single-player;Co-op;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud",2,2283,1654
+"Single-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud",2,3528,1391
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",2,572,858
+"Single-player;Shared/Split Screen;Steam Achievements;Partial Controller Support;Stats",2,72,101
+"Single-player;Steam Achievements;Steam Trading Cards;Stats",2,924,983
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Partial Controller Support",2,33,33
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;Partial Controller Support",2,247,247
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud",2,932,1552
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Workshop;Partial Controller Support;Steam Cloud",2,7415,4177
+"Single-player;Multi-player;Steam Achievements;Partial Controller Support;Steam Cloud;Steam Leaderboards",2,1329,1329
+"Single-player;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards",2,773,773
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Steam Leaderboards",2,466,280
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud",2,5786,2041
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud;Stats",2,309,390
+"Single-player;Shared/Split Screen;Steam Achievements;Partial Controller Support;Steam Leaderboards",2,31,31
+"Single-player;Multi-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud",2,988,783
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Partial Controller Support;Steam Cloud",2,43,62
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Local Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",2,1335,713
+"Single-player;Steam Achievements;Steam Workshop;Includes level editor",2,316,364
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Leaderboards;Includes level editor",2,731,1110
+"Single-player;Multi-player;Steam Achievements;Full controller support;Steam Cloud;Valve Anti-Cheat enabled;Steam Leaderboards",2,516,574
+"Single-player;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Includes level editor",2,373,479
+"Single-player;Steam Achievements;Captions available;Partial Controller Support;Steam Cloud",2,1194,1298
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Cross-Platform Multiplayer",2,74,74
+"Single-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",2,463,613
+"Multi-player;MMO;Steam Achievements;Steam Trading Cards",2,2527,1355
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Stats;Steam Leaderboards",2,572,720
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Cloud;Steam Leaderboards",2,132,132
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud",2,647,706
+"Single-player;Shared/Split Screen;Steam Achievements;Full controller support",2,178,150
+"Multi-player;Cross-Platform Multiplayer",2,95341,190585
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Trading Cards;Steam Cloud",2,1156,1369
+"Single-player;Multi-player;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",2,415,489
+"Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Stats;Steam Leaderboards",2,364,470
+"Single-player;Steam Trading Cards;Steam Workshop",2,294,294
+"Single-player;Steam Achievements;Steam Trading Cards;Captions available;Steam Cloud",2,111,111
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Workshop;Partial Controller Support;Steam Cloud;Includes level editor",2,8167,1857
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Captions available;Steam Cloud",2,1732,2393
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Steam Trading Cards;Partial Controller Support",2,1213,1054
+"Single-player;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Steam Leaderboards;Includes level editor",2,391,424
+"Single-player;Multi-player;Steam Achievements;Full controller support;Steam Cloud",2,0,0
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Cloud;Includes level editor",2,164,188
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards",2,221,275
+"Single-player;Steam Achievements;Steam Trading Cards;Captions available;Partial Controller Support;Steam Cloud",2,537,714
+"Single-player;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud",2,4832,3485
+"Multi-player;Online Multi-Player;Valve Anti-Cheat enabled",1,175,10
+"Single-player;Multi-player;Online Multi-Player;Steam Cloud;Valve Anti-Cheat enabled",1,1300,83
+"Single-player;Steam Achievements;Steam Trading Cards;Captions available;Partial Controller Support;Steam Cloud;Includes Source SDK",1,691,402
+"Multi-player;Cross-Platform Multiplayer;Steam Achievements;Steam Cloud;Valve Anti-Cheat enabled;Stats;Includes Source SDK",1,6842,400
+"Multi-player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Valve Anti-Cheat enabled;Stats;Includes Source SDK",1,1356,134
+"Multi-player;Valve Anti-Cheat enabled;Includes Source SDK",1,311,32
+"Single-player;Steam Achievements;Captions available;Partial Controller Support;Includes level editor;Includes Source SDK;Commentary available",1,288,137
+"Multi-player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Captions available;Steam Workshop;In-App Purchases;Partial Controller Support;Valve Anti-Cheat enabled;Stats;Includes level editor;Commentary available",1,8495,623
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Captions available;Steam Cloud;Valve Anti-Cheat enabled;Stats;Steam Leaderboards;Includes Source SDK;Commentary available",1,897,278
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Workshop;Steam Cloud;Valve Anti-Cheat enabled;Stats;Includes Source SDK;Commentary available",1,1615,566
+"Multi-player;Co-op;Steam Trading Cards;Steam Workshop;SteamVR Collectibles;In-App Purchases;Valve Anti-Cheat enabled",1,23944,801
+"Single-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Workshop;Steam Cloud;Stats;Includes level editor;Commentary available",1,1102,520
+"Single-player;Multi-player;Co-op;Steam Achievements;Captions available;Steam Cloud;Stats;Includes level editor",1,371,83
+"Multi-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;In-App Purchases;Valve Anti-Cheat enabled;Stats",1,22494,6502
+"Multi-player;Steam Achievements;Valve Anti-Cheat enabled",1,232,258
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop;Valve Anti-Cheat enabled;Stats;Includes level editor",1,1328,306
+Single-player;Stats,1,0,0
+"Steam Workshop",1,239,77
+"Single-player;Multi-player;Online Multi-Player;Online Co-op;Cross-Platform Multiplayer;Steam Trading Cards;Partial Controller Support",1,484,422
+"Single-player;Multi-player;Steam Trading Cards;Valve Anti-Cheat enabled",1,233,239
+"Single-player;Shared/Split Screen;Steam Trading Cards",1,186,258
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Workshop;Steam Cloud",1,1744,3386
+"Single-player;Multi-player;Co-op;Includes level editor",1,0,0
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Captions available;Steam Workshop;Steam Cloud;Valve Anti-Cheat enabled;Includes level editor",1,12422,1875
+"Multi-player;Online Multi-Player;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud;Valve Anti-Cheat enabled;Includes level editor",1,627,253
+"Single-player;Multi-player;Local Multi-Player;Steam Cloud",1,369,265
+"Single-player;Multi-player;Online Multi-Player;Partial Controller Support;Steam Cloud",1,618,320
+"Single-player;Local Multi-Player;Co-op;Local Co-op;Shared/Split Screen;Partial Controller Support;Steam Cloud",1,17,17
+Single-player;Multi-player;MMO,1,70,102
+"Single-player;Multi-player;Partial Controller Support;Valve Anti-Cheat enabled",1,74,74
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;In-App Purchases;Steam Cloud",1,327,403
+"Multi-player;Online Multi-Player;MMO;Co-op;Online Co-op;Steam Trading Cards",1,5123,230
+"Single-player;Multi-player;Co-op;Steam Achievements;Partial Controller Support",1,559,392
+"Single-player;Co-op;Steam Cloud",1,154,154
+"Multi-player;MMO;Co-op;Steam Achievements;Full controller support;In-App Purchases",1,2514,638
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Cloud;Valve Anti-Cheat enabled",1,999,580
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Cloud;Stats;Steam Leaderboards",1,170,168
+"Single-player;Shared/Split Screen;Steam Trading Cards;Includes level editor",1,355,374
+"Single-player;Multi-player;Online Multi-Player;Steam Trading Cards",1,91,97
+"Single-player;Multi-player;Co-op;Steam Trading Cards;Steam Cloud",1,628,293
+"Single-player;Online Multi-Player;Online Co-op;VR Support;Partial Controller Support",1,0,0
+Multi-player;Co-op,1,128,75
+"Multi-player;Co-op;Mods;Mods (require HL2);Steam Achievements;Steam Workshop;Steam Cloud;Valve Anti-Cheat enabled;Includes level editor;Includes Source SDK",1,948,86
+"Multi-player;Online Multi-Player;Cross-Platform Multiplayer;Mods;Steam Achievements;Steam Workshop;Steam Cloud;Valve Anti-Cheat enabled;Stats;Includes level editor;Includes Source SDK",1,117,197
+"Multi-player;Online Multi-Player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop;Partial Controller Support;Steam Cloud;Valve Anti-Cheat enabled;Stats;Includes level editor",1,971,1184
+"Multi-player;Cross-Platform Multiplayer;Steam Cloud;Includes level editor;Includes Source SDK",1,701,1378
+"Single-player;Steam Achievements;Partial Controller Support;Includes level editor",1,9,9
+"Single-player;Co-op;Partial Controller Support",1,0,0
+"Single-player;Steam Trading Cards;Includes level editor",1,415,597
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Cloud;Steam Leaderboards",1,181,99
+"Partial Controller Support;Steam Cloud",1,28,28
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Cross-Platform Multiplayer;Steam Achievements",1,0,0
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Steam Cloud;Stats",1,253,380
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;In-App Purchases;Steam Cloud;Steam Leaderboards",1,287,385
+"Multi-player;MMO;Steam Achievements;Full controller support",1,2990,3851
+"Single-player;Co-op;Steam Achievements;Steam Trading Cards;Steam Cloud;Stats",1,444,248
+"Single-player;Multi-player;Steam Achievements;Partial Controller Support;Stats;Steam Leaderboards",1,10,10
+"Single-player;Multi-player;Steam Achievements;Steam Cloud;Stats;Steam Leaderboards",1,0,0
+"Single-player;Multi-player;Local Multi-Player;Partial Controller Support;Steam Cloud",1,141,221
+"Single-player;Shared/Split Screen;Full controller support;Steam Cloud",1,243,266
+"Single-player;Shared/Split Screen;Partial Controller Support;Steam Cloud",1,0,0
+"Single-player;Multi-player;Online Multi-Player;Steam Cloud",1,395,219
+"Multi-player;Online Multi-Player;Steam Achievements;Steam Trading Cards;Steam Workshop;Valve Anti-Cheat enabled;Stats;Includes level editor",1,771,269
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Includes level editor",1,421,319
+"Single-player;Multi-player;Co-op;Valve Anti-Cheat enabled;Stats;Steam Leaderboards",1,54,46
+"Multi-player;Online Multi-Player;MMO;Co-op;Online Co-op;Steam Trading Cards;In-App Purchases",1,4104,1997
+"Single-player;Multi-player;Online Multi-Player;MMO;Co-op;Online Co-op;Cross-Platform Multiplayer;Partial Controller Support",1,28897,9324
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Local Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",1,154,222
+"Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Stats",1,1278,1257
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Includes level editor",1,0,0
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Local Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Steam Leaderboards;Includes level editor",1,378,215
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements;Partial Controller Support;Stats;Includes level editor",1,333,657
+"Single-player;Steam Achievements;Steam Cloud;Includes level editor",1,1108,1144
+"Multi-player;Steam Achievements;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards",1,112,128
+"Single-player;Co-op;Steam Achievements;Steam Trading Cards;Steam Cloud",1,369,369
+"Single-player;Multi-player;Online Multi-Player",1,0,0
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Leaderboards",1,589,369
+"Single-player;Multi-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Valve Anti-Cheat enabled;Steam Leaderboards",1,340,243
+"Single-player;Multi-player;Cross-Platform Multiplayer;Partial Controller Support",1,65,109
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Trading Cards;Steam Workshop;Includes level editor",1,0,0
+"Single-player;Multi-player;Steam Trading Cards;Includes level editor",1,506,758
+"Online Multi-Player;MMO;Online Co-op;Cross-Platform Multiplayer;Steam Trading Cards",1,329,421
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;Steam Workshop",1,7932,1884
+"Multi-player;Steam Achievements;Steam Leaderboards",1,0,0
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Cloud;Stats;Steam Leaderboards",1,293,301
+"Partial Controller Support",1,130,257
+"Single-player;Multi-player;Steam Achievements;Partial Controller Support;Steam Cloud;Valve Anti-Cheat enabled",1,1772,126
+"Single-player;Co-op;Steam Achievements;Partial Controller Support;Steam Cloud;Valve Anti-Cheat enabled;Steam Leaderboards",1,307,436
+"Single-player;Steam Achievements;Full controller support;Captions available;Includes level editor;Commentary available",1,173,41
+"Single-player;Local Co-op;Steam Achievements",1,36,36
+"Single-player;Steam Achievements;Full controller support;Partial Controller Support;Steam Cloud;Steam Leaderboards",1,25,25
+"Single-player;Multi-player;Steam Achievements;Valve Anti-Cheat enabled",1,11,11
+"Single-player;Multi-player;Co-op;Partial Controller Support;Steam Cloud;Valve Anti-Cheat enabled;Steam Leaderboards",1,1595,1595
+"Single-player;Multi-player;Co-op;Steam Achievements;Partial Controller Support;Steam Cloud;Valve Anti-Cheat enabled;Steam Leaderboards",1,137,137
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Steam Cloud;Valve Anti-Cheat enabled;Stats;Steam Leaderboards",1,31,31
+"Single-player;Multi-player;Co-op;Steam Achievements;Partial Controller Support;Valve Anti-Cheat enabled;Stats;Steam Leaderboards",1,101,101
+"Single-player;Multi-player;Steam Achievements;Valve Anti-Cheat enabled;Steam Leaderboards",1,132,227
+"Single-player;Steam Cloud;Includes level editor",1,30,30
+"Single-player;Multi-player;Co-op;Steam Cloud;Includes level editor",1,10,10
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Leaderboards;Includes level editor",1,292,365
+"Single-player;Steam Achievements;Captions available;Partial Controller Support;Stats",1,81,81
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Workshop;Steam Cloud;Valve Anti-Cheat enabled;Steam Leaderboards",1,1993,1205
+"Multi-player;Steam Achievements;Steam Trading Cards;Steam Cloud;Valve Anti-Cheat enabled;Stats",1,172,150
+"Single-player;Steam Achievements;Full controller support;Steam Cloud;Stats;Steam Leaderboards",1,165,169
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Commentary available",1,72,100
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,210,220
+"Single-player;Multi-player;Co-op;Steam Achievements;Stats;Steam Leaderboards",1,104,104
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Partial Controller Support",1,0,0
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Steam Trading Cards;Partial Controller Support;Stats;Steam Leaderboards",1,413,533
+"Single-player;Multi-player;Online Multi-Player;Co-op;Steam Achievements;Steam Trading Cards",1,180,205
+"Multi-player;Shared/Split Screen;Steam Achievements;Partial Controller Support;Stats",1,0,0
+"Single-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Stats;Steam Leaderboards",1,79,100
+"Single-player;Multi-player;Steam Achievements;Full controller support;Stats;Steam Leaderboards",1,123,184
+"Single-player;Shared/Split Screen;Steam Achievements;Partial Controller Support;Steam Cloud;Stats",1,152,153
+"Multi-player;Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",1,255,284
+"Single-player;Multi-player;Co-op;Steam Trading Cards;Partial Controller Support;Includes level editor",1,280,280
+"Single-player;Multi-player;Steam Achievements;Steam Workshop;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,9,9
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Cloud;Stats;Steam Leaderboards",1,1070,1903
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;Steam Turn Notifications",1,183,227
+"Single-player;Steam Achievements;Full controller support;Steam Workshop;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,101,155
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Workshop;Stats;Steam Leaderboards",1,800,1302
+"Single-player;Multi-player;Shared/Split Screen;Steam Achievements;Partial Controller Support",1,0,0
+"Single-player;Multi-player;MMO;Co-op;Steam Achievements;Steam Trading Cards;In-App Purchases;Partial Controller Support",1,275,64
+"Single-player;Multi-player;MMO;Co-op;Steam Achievements",1,107,214
+"Steam Cloud",1,0,0
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Cloud;Stats",1,0,0
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Valve Anti-Cheat enabled;Stats;Steam Leaderboards;Includes level editor",1,263,98
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Partial Controller Support;Steam Cloud;Steam Leaderboards",1,0,0
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Local Co-op;Steam Achievements;Steam Trading Cards;Captions available;Steam Workshop;Partial Controller Support;Steam Leaderboards;Includes level editor",1,18823,3621
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Steam Turn Notifications",1,607,607
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Trading Cards;Partial Controller Support",1,658,701
+"Multi-player;MMO;Co-op;Steam Trading Cards;In-App Purchases;Includes level editor",1,1273,543
+"Single-player;Co-op;Shared/Split Screen;Full controller support",1,0,0
+"Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Leaderboards;Includes level editor",1,199,199
+"Single-player;Local Co-op;Steam Achievements;Partial Controller Support",1,527,527
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Steam Leaderboards;Includes level editor",1,183,135
+"Multi-player;MMO;Steam Achievements",1,3835,302
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Captions available;Steam Cloud;Steam Leaderboards",1,21,31
+"Single-player;Multi-player;Shared/Split Screen;Steam Achievements;Steam Trading Cards;Steam Workshop;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,0,0
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements",1,0,0
+"Multi-player;MMO;Co-op;Cross-Platform Multiplayer;Steam Achievements;Stats",1,3531,64
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements;Steam Cloud;Stats;Steam Leaderboards",1,9,9
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud",1,1470,1049
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud",1,1037,508
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Partial Controller Support;Steam Cloud;Valve Anti-Cheat enabled;Stats",1,8,8
+"Single-player;Multi-player;Local Multi-Player",1,145,145
+"Single-player;Shared/Split Screen;Steam Trading Cards;Partial Controller Support;Steam Cloud",1,247,281
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Cloud",1,76,76
+"Single-player;Multi-player;Online Multi-Player;Online Co-op",1,149,270
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Valve Anti-Cheat enabled;Steam Leaderboards",1,524,400
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;Steam Workshop;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,89,24
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Steam Cloud;Steam Leaderboards",1,639,1242
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Valve Anti-Cheat enabled;Steam Leaderboards;Includes level editor",1,999,490
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Local Co-op;Partial Controller Support;Includes level editor",1,233,305
+"Single-player;Multi-player;Full controller support",1,0,0
+"Single-player;Multi-player;Steam Achievements;Steam Cloud;Includes level editor",1,115,115
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Local Co-op;Steam Achievements;Steam Trading Cards;Steam Cloud;Includes level editor",1,507,393
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards",1,182,182
+"Single-player;Shared/Split Screen;In-App Purchases",1,1371,1371
+"Steam Leaderboards",1,0,0
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Cloud",1,26,26
+"Single-player;Multi-player;Steam Achievements;Full controller support;Steam Trading Cards",1,64,64
+"Single-player;Steam Achievements;Steam Trading Cards;Captions available;Steam Cloud;Includes level editor",1,212,242
+"Multi-player;Steam Achievements;Steam Trading Cards;Steam Cloud;Stats;Steam Leaderboards",1,120,107
+"Single-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud",1,1279,1094
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Steam Achievements;Steam Trading Cards;In-App Purchases;Partial Controller Support;Stats;Steam Leaderboards",1,441,172
+"Single-player;Steam Achievements;Steam Trading Cards;Captions available;Commentary available",1,218,249
+"Single-player;Online Multi-Player;Local Multi-Player;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Stats;Includes level editor",1,421,320
+"Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Steam Cloud;Stats;Steam Leaderboards",1,640,101
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements;Steam Cloud;Steam Leaderboards",1,70,111
+"Single-player;Multi-player;Shared/Split Screen;Steam Achievements;Full controller support;Stats;Steam Leaderboards",1,220,263
+"Single-player;Multi-player;Online Multi-Player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Cloud",1,1102,352
+"Single-player;Steam Achievements;Full controller support;Steam Workshop;Steam Cloud",1,990,774
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;VR Support;Partial Controller Support;Stats;Steam Leaderboards",1,411,476
+"Single-player;Shared/Split Screen;Steam Achievements;Steam Workshop;Partial Controller Support;Steam Cloud;Steam Leaderboards;Includes level editor",1,0,0
+"Multi-player;Steam Achievements;Steam Trading Cards;Steam Workshop;Partial Controller Support;Stats",1,275,295
+"Single-player;Multi-player;Co-op;Full controller support",1,237,237
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Partial Controller Support",1,136,196
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Partial Controller Support",1,84,84
+"Multi-player;Steam Achievements;Steam Cloud;Steam Leaderboards",1,487,487
+"Single-player;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Stats;Steam Leaderboards",1,121,121
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;VR Support;Steam Workshop;Partial Controller Support;Steam Cloud;Steam Leaderboards;Includes level editor",1,57,77
+"Single-player;Steam Achievements;Partial Controller Support;Steam Cloud;Valve Anti-Cheat enabled;Stats;Steam Leaderboards",1,0,0
+"Single-player;Co-op;Steam Achievements;Partial Controller Support;Steam Cloud;Steam Leaderboards",1,0,0
+"Single-player;Shared/Split Screen;Steam Achievements;Full controller support;Steam Cloud;Steam Leaderboards",1,69,83
+"Single-player;Multi-player;Steam Trading Cards;In-App Purchases;Partial Controller Support",1,81,42
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Steam Achievements;Full controller support;Steam Trading Cards",1,152,283
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop",1,3556,2055
+"Multi-player;MMO;Co-op;Steam Achievements;Steam Trading Cards;VR Support;Partial Controller Support",1,4623,113
+"Single-player;Multi-player;MMO;Co-op;Partial Controller Support",1,408,249
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards",1,1149,1600
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud;Valve Anti-Cheat enabled;Stats;Steam Leaderboards",1,239,248
+"Multi-player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Steam Leaderboards",1,139,39
+"Single-player;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Steam Leaderboards",1,245,317
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Steam Cloud;Stats;Steam Leaderboards",1,254,462
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Steam Trading Cards;Steam Workshop;Partial Controller Support;Steam Cloud;Steam Leaderboards;Includes level editor",1,189,174
+"Multi-player;Online Multi-Player;MMO;Online Co-op;Steam Trading Cards",1,645,408
+"Single-player;Multi-player;Co-op;Steam Achievements;Partial Controller Support;Steam Cloud",1,0,0
+"Multi-player;Online Multi-Player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Valve Anti-Cheat enabled",1,423,470
+"Single-player;Multi-player;Co-op;Online Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud",1,92,151
+"Single-player;Online Multi-Player;Online Co-op;Full controller support",1,5,5
+"Single-player;Multi-player;Local Multi-Player;Shared/Split Screen;Steam Trading Cards;Steam Cloud",1,273,284
+"Single-player;Multi-player;Online Multi-Player;MMO;Co-op;Online Co-op;Steam Trading Cards;In-App Purchases;Partial Controller Support",1,194,283
+"Single-player;Multi-player;MMO;Co-op;Steam Trading Cards",1,71,106
+"Single-player;Full controller support;Steam Cloud;Stats;Steam Leaderboards",1,0,0
+"Single-player;Multi-player;Online Multi-Player;Steam Achievements;Steam Trading Cards;Steam Workshop;Partial Controller Support;Steam Cloud;Steam Leaderboards;Includes level editor",1,280,343
+"Multi-player;MMO;Steam Trading Cards",1,1051,150
+"Single-player;Multi-player;Co-op;Online Co-op;Steam Achievements;Full controller support;Steam Trading Cards;In-App Purchases",1,3975,890
+"Multi-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Valve Anti-Cheat enabled;Includes level editor",1,675,293
+"Multi-player;Steam Trading Cards",1,29,29
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Partial Controller Support;Includes level editor",1,384,378
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud",1,3651,1539
+"Single-player;Steam Trading Cards;Steam Workshop;Partial Controller Support;Steam Cloud",1,9223,351
+"Steam Trading Cards;Steam Workshop",1,405,465
+"Single-player;Steam Trading Cards;Steam Cloud;Includes level editor",1,136,166
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Valve Anti-Cheat enabled;Steam Leaderboards",1,1602,1245
+"Multi-player;Online Multi-Player;Steam Workshop;Steam Cloud;Valve Anti-Cheat enabled",1,7235,2798
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;Captions available;Steam Workshop;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,1569,619
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Workshop;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,3601,3601
+"Single-player;Shared/Split Screen;Steam Achievements;Steam Trading Cards;In-App Purchases;Partial Controller Support;Steam Cloud;Steam Leaderboards",1,6704,7089
+"Single-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Valve Anti-Cheat enabled",1,683,764
+"MMO;Cross-Platform Multiplayer",1,43,43
+"Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Valve Anti-Cheat enabled;Includes level editor",1,712,245
+"Single-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Stats",1,408,484
+"Single-player;Multi-player;Co-op;Steam Achievements;Captions available;Partial Controller Support;Stats",1,0,0
+"Single-player;Co-op;Steam Cloud;Valve Anti-Cheat enabled",1,3830,74
+"Single-player;Multi-player;Captions available;VR Support;Partial Controller Support;Includes level editor",1,2343,3454
+"Single-player;Steam Achievements;Full controller support;Captions available;Steam Cloud;Steam Leaderboards",1,0,0
+"Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Captions available;VR Support;Partial Controller Support;Valve Anti-Cheat enabled;Includes level editor;Includes Source SDK",1,2661,180
+"Multi-player;MMO;Co-op;Steam Trading Cards;Partial Controller Support",1,953,324
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Includes level editor",1,124,152
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop",1,157,207
+"Multi-player;Online Multi-Player;Local Multi-Player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop;In-App Purchases;Partial Controller Support;Steam Cloud;Stats;Includes level editor;Includes Source SDK",1,413,370
+"Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Local Co-op;Partial Controller Support;Steam Cloud",1,407,56
+"Single-player;Multi-player;Full controller support;Steam Trading Cards;Captions available;Steam Cloud",1,155,155
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud;Includes level editor",1,984,861
+"Single-player;Multi-player;Online Multi-Player;Online Co-op;Steam Achievements;Steam Trading Cards;Steam Workshop;Stats",1,199,264
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Steam Cloud",1,142,142
+"Single-player;Co-op;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Valve Anti-Cheat enabled;Steam Leaderboards",1,365,450
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",1,289,381
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Steam Workshop;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,27,34
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop",1,105,105
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Workshop;Includes level editor",1,272,272
+"Multi-player;Online Multi-Player;MMO;Online Co-op;In-App Purchases",1,1752,76
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Partial Controller Support",1,0,0
+"Single-player;Multi-player;Online Multi-Player;Steam Workshop;Partial Controller Support;Stats;Steam Leaderboards",1,778,1135
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,440,440
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Cloud;Steam Leaderboards;Commentary available",1,329,411
+"Single-player;Steam Trading Cards;Steam Leaderboards",1,200,204
+"Single-player;Includes level editor",1,0,0
+"Multi-player;Steam Workshop;Partial Controller Support;Includes level editor",1,507,507
+"Single-player;Multi-player;Online Multi-Player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Captions available;Steam Workshop;Steam Cloud;Steam Leaderboards;Includes level editor",1,471,581
+"Single-player;Local Multi-Player;Local Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud",1,494,494
+"Single-player;Multi-player;Co-op;Steam Trading Cards;In-App Purchases;Partial Controller Support",1,5845,394
+"Single-player;Steam Achievements;Steam Trading Cards;Captions available;Partial Controller Support",1,184,184
+"Single-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Partial Controller Support",1,252,252
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud;Stats",1,1846,277
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;In-App Purchases;Valve Anti-Cheat enabled;Includes level editor",1,2967,957
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Cloud;Commentary available",1,90,129
+"Single-player;Online Multi-Player;Online Co-op;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud;Includes level editor",1,259,233
+"Single-player;Shared/Split Screen;Steam Achievements;Full controller support;Steam Leaderboards",1,0,0
+"Single-player;Steam Trading Cards;Captions available;Partial Controller Support;Steam Cloud",1,217,217
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Captions available;VR Support;Steam Workshop;Partial Controller Support;Steam Leaderboards;Includes level editor",1,887,1307
+"Single-player;Multi-player;Shared/Split Screen;Steam Achievements;Steam Trading Cards;Steam Workshop;Partial Controller Support;Steam Cloud;Steam Leaderboards;Includes level editor",1,533,486
+"Single-player;Steam Workshop;Includes level editor",1,1756,2026
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Includes level editor",1,392,342
+"Single-player;Online Multi-Player;Cross-Platform Multiplayer",1,0,0
+"Single-player;Shared/Split Screen;Partial Controller Support;Includes level editor",1,0,0
+"Single-player;Multi-player;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",1,63,122
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;VR Support;Partial Controller Support;Steam Leaderboards",1,232,282
+"Single-player;Steam Trading Cards;Steam Workshop;Steam Cloud;Includes level editor",1,278,240
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Steam Achievements;Full controller support;Steam Cloud;Stats;Steam Leaderboards",1,1360,2404
+"Steam Achievements;Steam Cloud;Stats",1,0,0
+"Single-player;Multi-player;Steam Achievements;Captions available;Steam Cloud",1,232,232
+"Multi-player;MMO;Co-op;Steam Trading Cards",1,28,33
+"Single-player;Multi-player;Online Multi-Player;Steam Achievements;Steam Trading Cards",1,221,221
+"Single-player;Co-op;Steam Achievements;Steam Trading Cards;Captions available;Partial Controller Support;Steam Cloud",1,1200,608
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Trading Cards;Steam Turn Notifications",1,1364,2708
+"Single-player;Shared/Split Screen;Full controller support;Steam Workshop",1,507,507
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Workshop;Partial Controller Support;Steam Leaderboards;Includes level editor",1,0,0
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Steam Achievements;Steam Trading Cards;Partial Controller Support",1,523,217
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards",1,112,159
+"Single-player;MMO;Co-op;Cross-Platform Multiplayer;Steam Achievements;In-App Purchases;Partial Controller Support",1,4200,297
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support",1,2377,3041
+"Single-player;Multi-player;Steam Achievements;Full controller support;Steam Cloud;Stats;Steam Leaderboards",1,0,0
+"Single-player;Multi-player;Co-op;Full controller support;Steam Trading Cards;Includes level editor",1,80,89
+"Single-player;Multi-player;Steam Achievements;Full controller support;Steam Trading Cards;In-App Purchases;Steam Cloud",1,1433,1433
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud",1,8138,4572
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud;Commentary available",1,0,0
+Single-player;Multi-player;MMO;Co-op,1,796,54
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements;Full controller support",1,0,0
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Includes level editor",1,34,34
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Cross-Platform Multiplayer;Steam Trading Cards;Steam Workshop;Partial Controller Support",1,545,765
+"Single-player;Steam Achievements;Steam Trading Cards;Captions available;Partial Controller Support;Steam Cloud;Commentary available",1,947,875
+"Single-player;Co-op;Steam Trading Cards",1,256,404
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Trading Cards",1,0,0
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards",1,198,166
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Local Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,774,289
+"Single-player;Co-op;Local Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",1,0,0
+"Single-player;Multi-player;Online Multi-Player;MMO;Co-op;Steam Achievements;Steam Trading Cards;In-App Purchases",1,5263,492
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop;Partial Controller Support;Includes level editor",1,288,279
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Valve Anti-Cheat enabled;Includes level editor",1,2033,1299
+"Single-player;Full controller support;Captions available;Steam Cloud",1,100,123
+"Single-player;Steam Achievements;VR Support;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards",1,63,76
+"Single-player;Shared/Split Screen;Steam Achievements",1,0,0
+"Single-player;Local Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Leaderboards",1,132,171
+"Multi-player;Online Multi-Player;MMO;Online Co-op;Steam Trading Cards;Partial Controller Support",1,2218,1617
+"Single-player;Steam Achievements;Steam Workshop;Steam Cloud;Stats;Commentary available",1,316,316
+"Single-player;Partial Controller Support;Commentary available",1,169,208
+"Single-player;Multi-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Steam Leaderboards;Includes level editor",1,637,637
+"Single-player;Multi-player;Online Multi-Player;Online Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop;Includes level editor",1,102,150
+"Single-player;Online Multi-Player;Steam Trading Cards",1,444,444
+"Single-player;Multi-player;MMO;In-App Purchases;Partial Controller Support",1,657,725
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Steam Leaderboards;Includes level editor",1,103,178
+"Single-player;Multi-player;Local Multi-Player;Co-op;Local Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",1,0,0
+"Single-player;Multi-player;In-App Purchases",1,3234,1761
+"Single-player;Multi-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Includes level editor",1,0,0
+"Single-player;Co-op;Shared/Split Screen;Steam Achievements;Steam Trading Cards;Captions available;Partial Controller Support;Steam Cloud;Steam Leaderboards",1,0,0
+"Single-player;Shared/Split Screen;Steam Achievements;Full controller support;Steam Cloud;Stats;Steam Leaderboards",1,682,491
+"Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Captions available",1,450,254
+"Single-player;Multi-player;Co-op;Partial Controller Support;Steam Cloud",1,2417,1127
+"Multi-player;Online Multi-Player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Steam Leaderboards",1,3846,5410
+"Single-player;Multi-player;Steam Trading Cards;Partial Controller Support;Stats",1,98,120
+"Single-player;Multi-player;Steam Trading Cards;Partial Controller Support",1,1176,1343
+"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Valve Anti-Cheat enabled;Stats;Steam Leaderboards",1,137,176
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Steam Workshop;Partial Controller Support",1,13,13
+"Single-player;Multi-player;Co-op;Steam Achievements;Partial Controller Support;Stats",1,37,37
+"Single-player;Multi-player;Steam Achievements;Steam Workshop;Steam Cloud",1,353,419
+"Single-player;Online Multi-Player;Steam Achievements;Partial Controller Support;Steam Leaderboards;Includes level editor",1,3107,5267
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,4678,6473
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Local Co-op;Cross-Platform Multiplayer;Partial Controller Support;Stats",1,2957,2998
+"Single-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud",1,0,0
+"Single-player;Multi-player;Online Multi-Player;Co-op;Steam Achievements;Steam Workshop;Partial Controller Support;Steam Cloud;Includes level editor",1,3739,1147
+"Single-player;Multi-player;Online Multi-Player;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;VR Support;In-App Purchases;Steam Cloud;Steam Leaderboards",1,8180,64
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Includes level editor",1,0,0
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Leaderboards",1,752,1170
+"Single-player;Multi-player;In-App Purchases;Partial Controller Support",1,418,480
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud;Includes level editor",1,292,364
+"Single-player;Full controller support;Steam Workshop;Steam Cloud",1,46,46
+"Single-player;Online Multi-Player;Online Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,585,480
+"Single-player;Steam Achievements;Full controller support;Steam Workshop;Includes level editor",1,6,6
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards;Commentary available",1,97,118
+"Multi-player;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Stats;Includes level editor",1,0,0
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Cloud;Steam Leaderboards",1,332,531
+"Single-player;Local Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Workshop;Steam Cloud;Steam Leaderboards;Includes level editor",1,326,290
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Stats;Steam Leaderboards;Includes level editor",1,130,130
+"Single-player;Multi-player;MMO;Valve Anti-Cheat enabled",1,257,291
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Cloud",1,182,306
+"Single-player;Multi-player;MMO;Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Steam Leaderboards",1,0,0
+"Single-player;Multi-player;Online Multi-Player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Leaderboards",1,0,0
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;VR Support;Steam Cloud",1,130,130
+"Single-player;Shared/Split Screen;Steam Achievements;Full controller support;Steam Cloud;Stats",1,57,58
+"Single-player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;In-App Purchases;Steam Cloud;Includes level editor",1,130,42
+"Single-player;Co-op;Online Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud;Includes level editor",1,366,483
+"Multi-player;Co-op;Steam Achievements;Full controller support",1,22,22
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud",1,648,295
+"Single-player;Multi-player;MMO;Co-op;Online Co-op",1,0,0
+"Multi-player;MMO;Cross-Platform Multiplayer;Steam Cloud",1,38,38
+"Single-player;Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Steam Cloud;Stats",1,112,138
+"Single-player;Local Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",1,379,379
+"MMO;Steam Achievements;Steam Trading Cards;Includes level editor",1,31,31
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,283,300
+"Single-player;Steam Achievements;Full controller support;Steam Cloud;Stats",1,72,72
+"Single-player;Multi-player;Shared/Split Screen;Full controller support;Steam Trading Cards;Captions available",1,0,0
+"Single-player;Local Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud",1,501,611
+"Single-player;Steam Achievements;Steam Trading Cards;Captions available;Steam Workshop;Partial Controller Support;Steam Cloud;Steam Leaderboards",1,188,249
+"Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Partial Controller Support",1,450,872
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Stats;Steam Leaderboards;Steam Turn Notifications",1,0,0
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Includes level editor",1,0,0
+"Single-player;Multi-player;Online Multi-Player;In-App Purchases",1,0,0
+"Single-player;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Stats",1,337,340
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Partial Controller Support;Steam Cloud;Steam Leaderboards",1,0,0
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Includes level editor",1,2953,574
+"Single-player;Steam Achievements;Full controller support;Steam Cloud;Includes level editor",1,0,0
+"Single-player;Steam Achievements;Steam Workshop;In-App Purchases;Partial Controller Support;Includes level editor",1,0,0
+"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;VR Support;Includes level editor",1,693,1352
+"Single-player;Online Multi-Player;MMO;Online Co-op",1,10,10
+"Single-player;Steam Achievements;Steam Trading Cards;Captions available;Partial Controller Support;Steam Cloud;Steam Leaderboards",1,294,295
+"Multi-player;Partial Controller Support",1,0,0
+"Single-player;Steam Achievements;Steam Workshop;Steam Cloud;Stats",1,3,3
+"Single-player;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Leaderboards",1,0,0
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Stats",1,1244,1244
+"Multi-player;Online Multi-Player;MMO;Co-op;Online Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Workshop;In-App Purchases;Valve Anti-Cheat enabled;Stats",1,9352,2234
+"Single-player;Full controller support;Includes level editor",1,7999,7999
+"Single-player;Steam Achievements;Steam Trading Cards;VR Support;Steam Workshop;Partial Controller Support;Includes level editor",1,0,0
+"Single-player;Local Multi-Player;Local Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards",1,1139,1796
+"Multi-player;Co-op;Cross-Platform Multiplayer",1,43074,86148
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,0,0
+"Single-player;Co-op;Online Co-op;Cross-Platform Multiplayer;Partial Controller Support",1,1159,1446
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Stats",1,5825,1462
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Stats;Steam Leaderboards;Includes level editor",1,172,219
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud;Stats;Includes level editor",1,430,430
+"Single-player;Local Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Workshop;Steam Cloud;Stats;Includes level editor",1,377,376
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Local Co-op;Steam Trading Cards;Steam Workshop",1,644,1259
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Stats;Steam Leaderboards",1,432,432
+"Single-player;Multi-player;Local Multi-Player;Co-op;Local Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",1,0,0
+"Includes level editor",1,198,383
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Stats",1,247,247
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Steam Achievements",1,192,263
+"Single-player;Multi-player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Leaderboards",1,273,273
+"Shared/Split Screen;Steam Trading Cards;Partial Controller Support",1,8,8
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Steam Leaderboards;Includes level editor",1,48,78
+"Single-player;Online Multi-Player;Cross-Platform Multiplayer;Steam Trading Cards;Steam Cloud",1,255,267
+"Single-player;Multi-player;Online Multi-Player;Cross-Platform Multiplayer;Steam Trading Cards;Steam Cloud;Includes level editor",1,342,332
+"Single-player;Multi-player;Online Multi-Player;Cross-Platform Multiplayer;Steam Trading Cards;Steam Cloud",1,254,291
+"Single-player;Multi-player;Online Multi-Player;Online Co-op;Cross-Platform Multiplayer;Steam Trading Cards;Steam Cloud;Includes level editor",1,290,303
+"Single-player;Multi-player;Online Multi-Player;Co-op;Online Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;VR Support;Steam Workshop;Partial Controller Support;Stats;Steam Leaderboards;Includes level editor",1,2902,2902
+"Multi-player;Online Multi-Player;MMO;Co-op;Online Co-op;In-App Purchases",1,244,244
+"Single-player;Multi-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Steam Leaderboards",1,1047,1047
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Cloud;Steam Leaderboards",1,1073,938
+"Single-player;Multi-player;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Valve Anti-Cheat enabled;Steam Leaderboards",1,228,417
+"Steam Achievements;Steam Trading Cards;Steam Cloud;Commentary available",1,186,221
+"Single-player;Multi-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Stats",1,1986,1986
+"Single-player;Steam Trading Cards;Steam Workshop;Includes level editor",1,269,269
+"Single-player;Multi-player;Steam Achievements;Full controller support;Steam Cloud;Steam Leaderboards",1,0,0
+"Single-player;Steam Achievements;Steam Trading Cards;Captions available",1,1,1
+"Single-player;Cross-Platform Multiplayer;Full controller support",1,49,63
+"Single-player;Multi-player;Online Multi-Player;MMO;Cross-Platform Multiplayer;In-App Purchases",1,153,170
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Local Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Stats;Includes level editor",1,207,286
+"Single-player;Co-op;Online Co-op;Local Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud",1,0,0
+"Single-player;Local Multi-Player;Local Co-op;Steam Achievements;Full controller support;Steam Trading Cards",1,275,354
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Workshop;Steam Cloud;Steam Leaderboards",1,231,402
+"Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Stats;Steam Leaderboards",1,152,196
+"Single-player;Shared/Split Screen;Steam Trading Cards;Steam Cloud",1,282,273
+"Single-player;Steam Achievements;Steam Cloud;Commentary available",1,13,13

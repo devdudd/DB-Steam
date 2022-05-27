@@ -1,0 +1,11 @@
+categories,count,average,median
+"Multi-player;Cross-Platform Multiplayer",2,95341,190585
+Single-player,498,71791,71268
+"Multi-player;Co-op;Cross-Platform Multiplayer",1,43074,86148
+Single-player;Multi-player,145,30845,32299
+"Single-player;Multi-player;Online Multi-Player;MMO;Co-op;Online Co-op;Cross-Platform Multiplayer;Partial Controller Support",1,28897,9324
+"Multi-player;Co-op;Steam Trading Cards;Steam Workshop;SteamVR Collectibles;In-App Purchases;Valve Anti-Cheat enabled",1,23944,801
+"Multi-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;In-App Purchases;Valve Anti-Cheat enabled;Stats",1,22494,6502
+"Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Local Co-op;Steam Achievements;Steam Trading Cards;Captions available;Steam Workshop;Partial Controller Support;Steam Leaderboards;Includes level editor",1,18823,3621
+"Multi-player;Online Multi-Player;Local Multi-Player;Valve Anti-Cheat enabled",3,18147,563
+"Single-player;Steam Achievements;Steam Trading Cards;Steam Workshop;Steam Cloud",5,15382,18337

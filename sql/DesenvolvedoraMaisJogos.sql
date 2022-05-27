@@ -7,4 +7,5 @@ SELECT
 FROM
     steam.steam
 GROUP BY developer
-ORDER BY count DESC;
+ORDER BY count DESC
+limit 10;

@@ -8,4 +8,5 @@ SELECT
 FROM
     steam.steam
 GROUP BY categories
-ORDER BY count DESC;
+ORDER BY average DESC
+limit 10;

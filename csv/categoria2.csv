@@ -1,0 +1,11 @@
+categories,count,average,median
+Single-player,498,71791,71268
+Single-player;Multi-player,145,30845,32299
+"Single-player;Steam Achievements",57,4371,4211
+"Single-player;Steam Cloud",50,9345,8375
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud",42,12123,12801
+"Single-player;Partial Controller Support",42,8273,9211
+"Single-player;Steam Trading Cards",41,9285,9064
+"Single-player;Steam Achievements;Steam Trading Cards",34,10396,9073
+Single-player;Multi-player;Co-op,34,12752,13839
+"Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards",31,8951,9612
